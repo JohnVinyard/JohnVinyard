@@ -38,13 +38,13 @@ In addition to sparsity, this factorization also means that a playable instrumen
 
 This Web Audio demo uses a custom [`AudioWorklet`](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet) to perform physical-modeling synthesis using a spring-mass system.  It was inspired by the amazing work of [mi-creative](https://github.com/mi-creative).  Models with physics-based assumptions baked in are a natural tool for deriving sparser audio representations and imposing the "resonance prior".  This toy was a fun way to start learning about this topic!
 
-### Web Audio RNN Inference
+### [Web Audio RNN Inference](https://blog.cochlea.xyz/rnn.html)
 
 Each "Interactive Instrument" section in the [Playable State-Space Models article](https://blog.cochlea.xyz/rnn.html) includes a custom [`AudioWorklet`](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet) that performs inference given the weights of pre-trained, single layer RNN, using them to produce real-time audio!
 
 ## Hire Me
 
-I'm an Austin TX-based software engineer with over 20 years of experience.  In addition to deep familiarity with [`numpy`](), [`scipy`](), [`torch`]() and scientific computing in general, I am also a full-stack engineer who has worked extensively designing and building APIs and frontends on teams large and small.
+I'm an Austin TX-based software engineer with over 20 years of experience.  In addition to deep familiarity with [`NumPy`](https://numpy.org/), [`scipy`](https://scipy.org/), [`PyTorch`](https://pytorch.org/) and scientific computing in general, I am also a full-stack engineer who has worked extensively designing and building APIs and frontends on teams large and small.  Feel free to reach out if you have a project that you think I'd be a good fit for!
 
 ## Sponsor Me
 
