@@ -32,6 +32,10 @@ My current area of research is in sparse, interpretable and easy-to-manipulate m
 
 In addition to sparsity, this factorization also means that a playable instrument of sorts might be extracted from an audio signal, allowing new compositions to be created by altering the sparse control signal while holding the model constant.
 
+### [Audio Splatting](https://blog.cochlea.xyz/hierarchical.html)
+
+[In this work](https://blog.cochlea.xyz/hierarchical.html), I "learn" a sparse representation without an encoder model, by overfitting a number of events to a single audio example, again, using an event generator with roughly-physics-based assumptions. 
+
 ## Fun Web Audio Toys
 
 ### [Web Audio Spring-Mass Synthesis](https://blog.cochlea.xyz/string.html)
