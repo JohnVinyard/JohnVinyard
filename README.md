@@ -36,7 +36,7 @@ In addition to sparsity, this factorization also means that a playable instrumen
 
 ### [Web Audio Spring-Mass Synthesis](https://blog.cochlea.xyz/string.html)
 
-This Web Audio demo uses a custom [`AudioWorklet`](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet) to perform physical-modeling synthesis using a spring-mass system.  It was inspired by the amazing work of [mi-creative](https://github.com/mi-creative).  Models with physics-based assumptions baked in are a natural tool for deriving sparser audio representations and imposing the "resonance prior".  This toy was a fun way to start learning about this topic!
+[This Web Audio demo](https://blog.cochlea.xyz/string.html) uses a custom [`AudioWorklet`](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet) to perform physical-modeling synthesis using a spring-mass system.  It was inspired by the amazing work of [mi-creative](https://github.com/mi-creative).  Models with physics-based assumptions baked in are a natural tool for deriving sparser audio representations and imposing the "resonance prior".  This toy was a fun way to start learning about this topic!
 
 ### [Web Audio RNN Inference](https://blog.cochlea.xyz/rnn.html)
 
