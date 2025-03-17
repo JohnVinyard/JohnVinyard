@@ -11,11 +11,13 @@ My current area of research is in sparse, interpretable and easy-to-manipulate m
 
 ### [Toward a Sparse, Interpretable Audio Codec](https://blog.cochlea.xyz/sparse-interpretable-audio-codec-paper.html)
 
-<img src="https://github.com/user-attachments/assets/424f803e-d969-4d69-9aa7-f8fc5f2dd739" alt="Description" height="200">
+<img src="https://github.com/user-attachments/assets/424f803e-d969-4d69-9aa7-f8fc5f2dd739" alt="Sparse audio events" height="200" width="100%" />
 
 This evolving work describes a deep-learning architecture for decomposing musical audio into a sparse, event-based representation iteratively, something like neural matching pursuit.
 
 ### [Learning Playable State-Space Models from Audio](https://blog.cochlea.xyz/rnn.html)
+
+<img src="https://github.com/user-attachments/assets/95993a48-3829-4de1-870b-c65f242e5c1d" alt="Sparse control signal" height="200" />
 
 This work posits that one key to sparsity is something like a "resonance prior" that factors audio signals into two distinct parts:
 
