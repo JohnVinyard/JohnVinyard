@@ -44,7 +44,7 @@ Each "Interactive Instrument" section in the [Playable State-Space Models articl
 
 ## Hire Me
 
-I'm an Austin TX-based software engineer with over 20 years of experience.  In addition to deep familiarity with [`numpy`](), [`scipy`](), [`torch`]() and scientific computing in general, I am also a full-stack engineer who has worked extensively designing and building APIs on teams large and small.
+I'm an Austin TX-based software engineer with over 20 years of experience.  In addition to deep familiarity with [`numpy`](), [`scipy`](), [`torch`]() and scientific computing in general, I am also a full-stack engineer who has worked extensively designing and building APIs and frontends on teams large and small.
 
 ## Sponsor Me
 
