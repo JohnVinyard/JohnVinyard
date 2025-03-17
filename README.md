@@ -1,4 +1,7 @@
+## Contents
 
+- [Current Research](#current-research)
+- [Fun Web Audio Toys](#fun-web-audio-toys)
 
 My current area of research is in sparse, interpretable and easy-to-manipulate models of audio (especially music).  My ambitous goal is to define and build an audio codec that is sparse, compressive, perceptually lossless, and directly manipulatable.  In this nascent codec, some types of musical composition might take directly in the codec space, rather than in a DAW, or other specialized tool.  My ideal is that this codec will be:
 
