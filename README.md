@@ -42,8 +42,10 @@ This Web Audio demo uses a custom [`AudioWorklet`](https://developer.mozilla.org
 
 Each "Interactive Instrument" section in the [Playable State-Space Models article](https://blog.cochlea.xyz/rnn.html) includes a custom [`AudioWorklet`](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet) that performs inference given the weights of pre-trained, single layer RNN, using them to produce real-time audio!
 
-
 ## Hire Me
+
+I'm an Austin TX-based software engineer with over 20 years of experience.  In addition to deep familiarity with [`numpy`](), [`scipy`](), [`torch`]() and scientific computing in general, I am also a full-stack engineer who has worked extensively designing and building APIs on teams large and small.
 
 ## Sponsor Me
 
+If you find my research and would like to see more, I'd be deeply appreciative if you wanted to [sponsor me](https://github.com/sponsors/JohnVinyard)!
