@@ -2,6 +2,9 @@
 
 - [Current Research](#current-research)
 - [Fun Web Audio Toys](#fun-web-audio-toys)
+- [Hire Me](#hire-me)
+- [Sponsor Me](#sponsor-me)
+  
 
 My current area of research is in sparse, interpretable and easy-to-manipulate models of audio (especially music).  My ambitous goal is to define and build an audio codec that is sparse, compressive, perceptually lossless, and directly manipulatable.  In this nascent codec, some types of musical composition might take directly in the codec space, rather than in a DAW, or other specialized tool.  My ideal is that this codec will be:
 
@@ -31,12 +34,14 @@ In addition to sparsity, this factorization also means that a playable instrumen
 
 ## Fun Web Audio Toys
 
-### [Web Audio Spring-Mass Synthesis]()
+### [Web Audio Spring-Mass Synthesis](https://blog.cochlea.xyz/string.html)
+
+This Web Audio demo uses a custom [`AudioWorklet`](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet) to perform physical-modeling synthesis using a spring-mass system.  It was inspired by the amazing work of [mi-creative](https://github.com/mi-creative).  Models with physics-based assumptions baked in are a natural tool for deriving sparser audio representations and imposing the "resonance prior".  This toy was a fun way to start learning about this topic!
 
 ### Web Audio RNN Inference
 
+Each "Interactive Instrument" section in the [Playable State-Space Models article](https://blog.cochlea.xyz/rnn.html) includes a custom [`AudioWorklet`](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet) that performs inference given the weights of pre-trained, single layer RNN, using them to produce real-time audio!
 
-## Interesting Repositories
 
 ## Hire Me
 
