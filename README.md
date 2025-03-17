@@ -4,7 +4,7 @@ My current area of research is in sparse, interpretable and easy-to-manipulate m
 
 - sparse and event based, enumerating conceptually-distinct events and their times of occurrence
 - sample-rate independent, not rasterized, and not dependent on block-coding of fixed-size frames, with audio generated using something akin to neural operators, NERF, or SIREN-type models
-- perceptually-losseless, taking advantage of masking, invariances over phase, the loss of phase-locking starting at 5khz, and other perceptual phenomenon
+- perceptually-losseless, taking advantage of masking, invariances over phase, the loss of phase-locking starting at 5khz, and other perceptual phenomena
 - compressive at a rate _at least_ as competitive as that of current codecs like MP3 or Ogg Vorbis
 
 ## Current Research
