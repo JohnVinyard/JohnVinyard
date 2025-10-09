@@ -46,6 +46,10 @@ In addition to sparsity, this factorization also means that a playable instrumen
 
 Each "Interactive Instrument" section in the [Playable State-Space Models article](https://blog.cochlea.xyz/rnn.html) includes a custom [`AudioWorklet`](https://developer.mozilla.org/en-US/docs/Web/API/AudioWorklet) that performs inference given the weights of pre-trained, single layer RNN, using them to produce real-time audio!
 
+### [Web Audio Theremin](https://blog.cochlea.xyz/theremin.html)
+
+A spooky and fun [little toy](https://blog.cochlea.xyz/theremin.html) I made in October 2025! 🛸 🧟‍♀️
+
 ## Hire Me
 
 I'm an Austin TX-based software engineer with over 20 years of experience.  In addition to deep familiarity with [NumPy](https://numpy.org/), [SciPy](https://scipy.org/), [PyTorch](https://pytorch.org/) and scientific computing in general, I am also a full-stack engineer who has worked extensively designing and building APIs and frontends on teams large and small.  Feel free to reach out if you have a project that you think I'd be a good fit for!
