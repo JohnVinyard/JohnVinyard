@@ -6,7 +6,7 @@
 - [Sponsor Me](#sponsor-me)
   
 
-My current area of research is in sparse, interpretable and easy-to-manipulate models of audio (especially music).  My ambitous goal is to define and build an audio codec that is sparse, compressive, perceptually lossless, and directly manipulatable.  In this nascent codec, some types of musical composition might take directly in the codec space, rather than in a DAW, or other specialized tool.  My ideal is that this codec will be:
+My current area of research is in sparse, interpretable and easy-to-manipulate models of audio (especially music).  My ambitous goal is to define and build an audio codec that is sparse, compressive, perceptually lossless, and directly manipulatable.  In this nascent codec, some types of musical composition might take place directly in the codec space, rather than in a DAW or other specialized tool.  My ideal is that this codec will be:
 
 - sparse and event based, enumerating conceptually-distinct events and their times of occurrence
 - sample-rate independent, not rasterized, and not dependent on block-coding of fixed-size frames, with audio generated using something akin to neural operators, NERF, or SIREN-type models
