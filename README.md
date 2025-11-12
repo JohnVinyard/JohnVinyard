@@ -23,7 +23,7 @@ My current area of research is in sparse, interpretable and easy-to-manipulate m
 
 ### [Hand-Controlled WebAudio Instruments from Short Audio Segments](https://blog.cochlea.xyz/resonancemodel.html)
 
-In this experiment, we map hand-tracking landmarks (using MediaPipe) on the input-space of a learned instrument model.
+In [this experiment](https://blog.cochlea.xyz/resonancemodel.html), we map hand-tracking landmarks (using MediaPipe) on the input-space of a learned instrument model.
 
 <img width="938" height="502" alt="image" src="https://github.com/user-attachments/assets/e3565f36-2159-4451-9783-77830be66f27" />
 
