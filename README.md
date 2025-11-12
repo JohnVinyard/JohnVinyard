@@ -21,6 +21,13 @@ My current area of research is in sparse, interpretable and easy-to-manipulate m
 
 [This evolving work](https://blog.cochlea.xyz/sparse-interpretable-audio-codec-paper.html) describes a deep-learning architecture for decomposing musical audio into a sparse, event-based representation iteratively, something like neural matching pursuit.
 
+### [Hand-Controlled WebAudio Instruments from Short Audio Segments](https://blog.cochlea.xyz/resonancemodel.html)
+
+In this experiment, we map hand-tracking landmarks (using MediaPipe) on the input-space of a learned instrument model.
+
+<img width="938" height="502" alt="image" src="https://github.com/user-attachments/assets/e3565f36-2159-4451-9783-77830be66f27" />
+
+
 ### [Learning Playable State-Space Models from Audio](https://blog.cochlea.xyz/rnn.html)
 
 <img src="https://github.com/user-attachments/assets/95993a48-3829-4de1-870b-c65f242e5c1d" alt="Sparse control signal" height="200" />
